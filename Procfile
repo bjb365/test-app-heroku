@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar build/libs/redjello.jar
+web: java -Dserver.port=53674 $JAVA_OPTS -jar build/libs/*.jar
