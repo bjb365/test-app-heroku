@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar build/libs/red-jello.jar
+web: java $JAVA_OPTS -jar build/libs/redjello.jar
