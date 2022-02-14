@@ -1,1 +1,1 @@
-web: java -jar build/lib/red-jello.jar
+web: java -jar build/libs/red-jello.jar
